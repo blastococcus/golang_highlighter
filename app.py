@@ -17,7 +17,8 @@ colors = {
     "OPERANDS" : "#FF33F0",
     "STR" : "#E07515",
     "CARRIAGERETURN" : "",
-    "SPACE" : ""
+    "SPACE" : "",
+    "KEYWORD" : "#623881"
     }
 
 @app.route('/')
